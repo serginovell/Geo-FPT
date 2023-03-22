@@ -1,2 +1,2 @@
-# GeoBisPeT
-Geometrical Bispectrum effective model based on Perturbation theory
+# GEO-FPT
+Geometrical Fitted Bispectrum model based on Perturbation theory
