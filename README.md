@@ -1,5 +1,3 @@
-<script src="https://cdnjs.cloudflare.com/ajax/libs/mathjax/2.7.4/MathJax.js?config=TeX-MML-AM_CHTML"></script>
-
 # GEO-FPT
 Geometrical Fitted Bispectrum model based on Perturbation theory. Presented in the paper . 
 
