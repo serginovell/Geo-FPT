@@ -14,7 +14,7 @@ tr, tr2,tr3,tr4: Triangle configurations to be computed for each multipole: (0),
 kp: Input power spectrum k bins
 pk: Input power spectrum. GEO-FPT uses the non-linear matter power spectrum as input, which is computed first with PTcool and then combined with BRASS (this code provides the neede functions from BRASS to combine the power spectrum, in the Pdd_P02.c file. All credit for this is for Héctor Gil-Marín.
 
-cosm_par: An array with the cosmological parameters, in the following order: [\sigma8, $f$, $\alpha_\parallel$, $\alpha_\bot$, b1,b2, $A_P$, $\sigma_P$, $A_B$, $\sigma_B$]. See the paper in [] for the details on each parameter.
+cosm_par: An array with the cosmological parameters, in the following order: [ $\sigma8$ , $f$, $\alpha_\parallel$, $\alpha_\bot$, $b_1$ , $b_2$ , $A_P$, $\sigma_P$, $A_B$, $\sigma_B$]. See the paper in [] for the details on each parameter.
 
 The redshift at which we want to compute the bispectrum
 
