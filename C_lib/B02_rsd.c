@@ -8,7 +8,7 @@
 /*
  * GEO-FPT
  * All rights reserved
- * Author: Sergi Novell Masot
+ * Author: Sergi Novell Masot; Appreciated contributions from Davide Gualdi
  * Date: 28th March 2023
  * email: sergi.novell@icc.ub.edu
  * 
